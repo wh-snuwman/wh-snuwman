@@ -1,22 +1,25 @@
+
+
+
 # 👋 반갑습니다
----
+
 
 더 나은 도구과 쉬운 코딩을 위해 
 개발자의 길을 걷게된 snuwman 이라고 합니다
 
----
+
 # ✅ 클리어 
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,html,css,ps,ai,pr)
 ![My Skills](https://skillicons.dev/icons?i=bash,git,github,notion,obsidian,)
 
 
----
+
 # 🛠️ 학습중
 
 ![My Skills](https://skillicons.dev/icons?i=c,linux,)
 
----
+
 
 #  📝 프로젝트
 
