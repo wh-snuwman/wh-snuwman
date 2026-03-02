@@ -1,5 +1,5 @@
-
-
+<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/75231815-4255-4e83-ba70-6271391dfb13" />
+![screenshot]([https://example.com/image.png](https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4T4KX2WM6JG2VH6BA3IN3IUYAU.JPG))
 
 # 👋 반갑습니다
 
@@ -9,21 +9,13 @@
 
 # ✅ 클리어 
 
-![My Skills](https://skillicons.dev/icons?i=py,js,html,css,ps,ai,pr)
+![My Skills](https://skillicons.dev/icons?i=py,js,html,css,ps,ai,pr,linux)
 ![My Skills](https://skillicons.dev/icons?i=bash,git,github,notion,obsidian,)
-
-
-
-# 🛠️ 학습중
-
-![My Skills](https://skillicons.dev/icons?i=c,linux,)
 
 
 
 #  📝 프로젝트
 
-+ 스크래치 게임 *뽀로로RPG* 교내 인기투표 2등
-	
 	
 + 파이썬 게임 Colorless 개발 
 	 
